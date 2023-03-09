@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Capybara",
+      "price": "130",
+      "url": "./images/product-1.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 2,
+      "title": "Capybara",
+      "price": "210",
+      "url": "./images/product-2.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 3,
+      "title": "Capybara",
+      "price": "90",
+      "url": "./images/product-3.png",
+      "category": "Jewellery"
+    },
+    {
+      "id": 4,
+      "title": "Capybara",
+      "price": "100",
+      "url": "./images/product-4.png",
+      "category": "Jewellery"
+    },
+    {
+      "id": 5,
+      "title": "Capybara",
+      "price": "100",
+      "url": "./images/product-5.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 6,
+      "title": "Capybara",
+      "price": "50",
+      "url": "./images/product-6.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 7,
+      "title": "Capybara",
+      "price": "50",
+      "url": "./images/product-4.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 8,
+      "title": "Capybara",
+      "price": "300",
+      "url": "./images/product-6.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 9,
+      "title": "Capybara",
+      "price": "300",
+      "url": "./images/product-2.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 10,
+      "title": "Capybara",
+      "price": "300",
+      "url": "./images/product-1.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 11,
+      "title": "Capybara",
+      "price": "700",
+      "url": "./images/product-4.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 12,
+      "title": "Capybara",
+      "price": "500",
+      "url": "./images/product-5.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 13,
+      "title": "Capybara",
+      "price": "900",
+      "url": "./images/product-3.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 14,
+      "title": "Capybara",
+      "price": "100",
+      "url": "./images/product-2.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 15,
+      "title": "Capybara",
+      "price": "250",
+      "url": "./images/product-1.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 16,
+      "title": "Capybara",
+      "price": "350",
+      "url": "./images/product-2.png",
+      "category": "Accessories"
+    }
+  ]
+}
